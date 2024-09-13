@@ -1,0 +1,36 @@
+﻿@using BorletteDTO
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model List<Tirage>
+@{
+    ViewData["Title"] = "TIRAGE";
+}
+
+<h2>LOTO SA : TIRAGE</h2>
+<table class="table table-condensed table-striped">
+    <tr>
+        <th>Date Tirage</th>
+        <th>Majoration Gain(1er Lot)</th>
+        <th>1er Lot</th>
+        <th>Majoration Gain(2eme Lot)</th>
+        <th>2eme Lot</th>
+        <th>Majoration Gain(3eme Lot)</th>
+        <th>3eme Lot</th>
+        <th>Statut</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CreeLe</td>
+            <td>@item.CoefficientPremierNumero</td>
+            <td>@item.PremierNumero</td>
+            <td>@item.CoefficientDeuxiemeNumero</td>
+            <td>@item.DeuxiemeNumero</td>
+            <td>@item.CoefficientTroisiemeNumero</td>
+            <td>@item.TroisiemeNumero</td>
+            <td>@item.LibelleStatut</td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,15 @@
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\bin\Debug\net8.0\BorletteRepository.deps.json
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\bin\Debug\net8.0\BorletteRepository.dll
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\bin\Debug\net8.0\BorletteRepository.pdb
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\bin\Debug\net8.0\BorletteDTO.dll
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\bin\Debug\net8.0\BorletteDTO.pdb
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\obj\Debug\net8.0\BorletteRepository.csproj.AssemblyReference.cache
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\obj\Debug\net8.0\BorletteRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\obj\Debug\net8.0\BorletteRepository.AssemblyInfoInputs.cache
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\obj\Debug\net8.0\BorletteRepository.AssemblyInfo.cs
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\obj\Debug\net8.0\BorletteRepository.csproj.CoreCompileInputs.cache
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\obj\Debug\net8.0\BorletteRepository.csproj.CopyComplete
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\obj\Debug\net8.0\BorletteRepository.dll
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\obj\Debug\net8.0\refint\BorletteRepository.dll
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\obj\Debug\net8.0\BorletteRepository.pdb
+C:\_document\MBDS2023-2024\Demo\BorletteRepository\obj\Debug\net8.0\ref\BorletteRepository.dll

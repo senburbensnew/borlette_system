@@ -1,0 +1,86 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "BorletteContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "DAOEFC\/EFC",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "BorletteRepository",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Tbl_MiseJoueur]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tbl_Profession]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tbl_RefProfilUtilisateur]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tbl_RefSensTransaction]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tbl_RefStatutMise]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tbl_RefStatutTirage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tbl_RefStatutUtilisateur]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tbl_Tirage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tbl_Transaction]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tbl_TypeTransaction]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tbl_Utilisateur]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "desktop-ak9f2a6\\sqlexpress.BORLETTE.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

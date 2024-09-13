@@ -1,0 +1,11 @@
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\bin\Debug\net8.0\BorletteDTO.deps.json
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\bin\Debug\net8.0\BorletteDTO.dll
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\bin\Debug\net8.0\BorletteDTO.pdb
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\obj\Debug\net8.0\BorletteDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\obj\Debug\net8.0\BorletteDTO.AssemblyInfoInputs.cache
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\obj\Debug\net8.0\BorletteDTO.AssemblyInfo.cs
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\obj\Debug\net8.0\BorletteDTO.csproj.CoreCompileInputs.cache
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\obj\Debug\net8.0\BorletteDTO.dll
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\obj\Debug\net8.0\refint\BorletteDTO.dll
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\obj\Debug\net8.0\BorletteDTO.pdb
+C:\_document\MBDS2023-2024\Demo\BorletteLibrary\obj\Debug\net8.0\ref\BorletteDTO.dll
