@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BorletteDemoMVCCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17d30f530b7a953375cb6ee55233ed86a0e48241")]
 [assembly: System.Reflection.AssemblyProductAttribute("BorletteDemoMVCCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BorletteDemoMVCCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

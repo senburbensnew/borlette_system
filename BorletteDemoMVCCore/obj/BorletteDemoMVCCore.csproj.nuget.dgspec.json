@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_document\\MBDS2023-2024\\Demo\\BorletteDemoMVCCore\\BorletteDemoMVCCore.csproj": {}
+    "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteDemoMVCCore\\BorletteDemoMVCCore.csproj": {}
   },
   "projects": {
-    "C:\\_document\\MBDS2023-2024\\Demo\\BorletteDemoMVCCore\\BorletteDemoMVCCore.csproj": {
+    "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteDemoMVCCore\\BorletteDemoMVCCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteDemoMVCCore\\BorletteDemoMVCCore.csproj",
+        "projectUniqueName": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteDemoMVCCore\\BorletteDemoMVCCore.csproj",
         "projectName": "BorletteDemoMVCCore",
-        "projectPath": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteDemoMVCCore\\BorletteDemoMVCCore.csproj",
-        "packagesPath": "C:\\Users\\Gregory\\.nuget\\packages\\",
-        "outputPath": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteDemoMVCCore\\obj\\",
+        "projectPath": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteDemoMVCCore\\BorletteDemoMVCCore.csproj",
+        "packagesPath": "C:\\Users\\rubens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteDemoMVCCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gregory\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\rubens\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\Blazor\\20.3.0.56\\NuGetPackages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -34,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\_document\\MBDS2023-2024\\Demo\\BorletteLibrary\\BorletteDTO.csproj": {
-                "projectPath": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteLibrary\\BorletteDTO.csproj"
+              "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteLibrary\\BorletteDTO.csproj": {
+                "projectPath": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteLibrary\\BorletteDTO.csproj"
               },
-              "C:\\_document\\MBDS2023-2024\\Demo\\BorletteRepository\\BorletteRepository.csproj": {
-                "projectPath": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteRepository\\BorletteRepository.csproj"
+              "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteRepository\\BorletteRepository.csproj": {
+                "projectPath": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteRepository\\BorletteRepository.csproj"
               }
             }
           }
@@ -47,6 +42,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -85,25 +85,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\_document\\MBDS2023-2024\\Demo\\BorletteLibrary\\BorletteDTO.csproj": {
+    "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteLibrary\\BorletteDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteLibrary\\BorletteDTO.csproj",
+        "projectUniqueName": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteLibrary\\BorletteDTO.csproj",
         "projectName": "BorletteDTO",
-        "projectPath": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteLibrary\\BorletteDTO.csproj",
-        "packagesPath": "C:\\Users\\Gregory\\.nuget\\packages\\",
-        "outputPath": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteLibrary\\obj\\",
+        "projectPath": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteLibrary\\BorletteDTO.csproj",
+        "packagesPath": "C:\\Users\\rubens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteLibrary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gregory\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\rubens\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,7 +107,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\Blazor\\20.3.0.56\\NuGetPackages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -125,6 +120,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -146,25 +146,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\_document\\MBDS2023-2024\\Demo\\BorletteRepository\\BorletteRepository.csproj": {
+    "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteRepository\\BorletteRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteRepository\\BorletteRepository.csproj",
+        "projectUniqueName": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteRepository\\BorletteRepository.csproj",
         "projectName": "BorletteRepository",
-        "projectPath": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteRepository\\BorletteRepository.csproj",
-        "packagesPath": "C:\\Users\\Gregory\\.nuget\\packages\\",
-        "outputPath": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteRepository\\obj\\",
+        "projectPath": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteRepository\\BorletteRepository.csproj",
+        "packagesPath": "C:\\Users\\rubens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteRepository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gregory\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\rubens\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -172,7 +168,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\Blazor\\20.3.0.56\\NuGetPackages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -180,8 +175,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\_document\\MBDS2023-2024\\Demo\\BorletteLibrary\\BorletteDTO.csproj": {
-                "projectPath": "C:\\_document\\MBDS2023-2024\\Demo\\BorletteLibrary\\BorletteDTO.csproj"
+              "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteLibrary\\BorletteDTO.csproj": {
+                "projectPath": "C:\\Users\\rubens\\Desktop\\borlette_system\\BorletteLibrary\\BorletteDTO.csproj"
               }
             }
           }
@@ -190,6 +185,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -217,7 +217,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

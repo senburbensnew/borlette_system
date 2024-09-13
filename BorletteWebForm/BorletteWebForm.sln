@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BorletteWebForm", ".", "{8DA5FFB1-E43B-4002-8F07-8FDD0C9A12B0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50599"
+		Debug.AspNetCompiler.PhysicalPath = "..\BorletteWebForm\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50599\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50599"
+		Release.AspNetCompiler.PhysicalPath = "..\BorletteWebForm\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50599\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50599"
+		SlnRelativePath = "..\BorletteWebForm\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA5FFB1-E43B-4002-8F07-8FDD0C9A12B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA5FFB1-E43B-4002-8F07-8FDD0C9A12B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8DEA4E-E78A-486F-9EA9-939D7BD018CC}
+	EndGlobalSection
+EndGlobal
